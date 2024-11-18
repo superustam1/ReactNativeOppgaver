@@ -1,0 +1,15 @@
+[submodule "ApperProsjekt/Oppgave1"]
+	path = ApperProsjekt/Oppgave1
+	url = https://github.com/superustam1/ReactNativeOppgaver
+[submodule "ApperProsjekt/Oppgave2"]
+	path = ApperProsjekt/Oppgave2
+	url = https://github.com/superustam1/ReactNativeOppgaver
+[submodule "ApperProsjekt/Oppgave3"]
+	path = ApperProsjekt/Oppgave3
+	url = https://github.com/superustam1/ReactNativeOppgaver
+[submodule "ApperProsjekt/Oppgave4"]
+	path = ApperProsjekt/Oppgave4
+	url = https://github.com/superustam1/ReactNativeOppgaver
+[submodule "ApperProsjekt/Oppgave5"]
+	path = ApperProsjekt/Oppgave5
+	url = https://github.com/superustam1/ReactNativeOppgaver
